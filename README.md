@@ -12,16 +12,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MMehran1101&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MMehran1101&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MMehran1101&theme=nord&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MMehran1101&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=MMehran1101&icon=6&color=4)](https://visitcount.itsvg.in)
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MMehran1101&theme=nord&no-frame=true&no-bg=false&margin-w=4)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
