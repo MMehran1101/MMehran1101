@@ -1,5 +1,7 @@
 # 💫 About Me:
-⚡ I’m currently learning Unity Engine
+🎮 Passionate game developer working with *Unity Engine* to bring ideas to life!
+🕹️ Currently focused on creating casual and simple games, but deeply interested in game design, storytelling, and puzzle games.
+🚀 Always exploring new ways to craft engaging and memorable experiences!
 
 
 ## 🌐 Socials:
